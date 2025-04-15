@@ -1,0 +1,44 @@
+# My Wallet Application - Personal Accounts Screen Documentation
+
+This document describes the user interface elements visible in the provided screenshot of the "My Wallet" application, specifically the "Personal Accounts" section.
+
+## Top Bar Elements
+
+1.  **Logo and User Info:** Displays the application name "My Wallet" and the currently logged-in user's name (Retselisitsoe) and email address (mark@...).
+2.  **Sidebar Toggle:** A hamburger menu icon (☰) used to collapse or expand the left-hand navigation sidebar.
+3.  **Settings Icon:** A gear icon (⚙️), typically used to access application settings or configuration options.
+4.  **Notifications Icon:** A bell icon (🔔), usually indicates system notifications, alerts, or messages for the user.
+5.  **User Profile Area:** Shows the logged-in user's name (Retselisitsoe) and likely provides access to user profile settings, account management, or logout options.
+
+## Left Sidebar Navigation
+
+6.  **Dashboard:** A navigation link to the main overview or dashboard section of the application.
+7.  **Districts:** A navigation link to a section for viewing or managing geographical districts.
+8.  **Personal Accounts:** A navigation link to the section for managing individual customer or personal accounts. This is the currently active section.
+9.  **Agent Accounts:** A navigation link to a section for managing agent accounts.
+10. **Messages:** A navigation link to an internal messaging or communication feature.
+11. **MRRTO Module:** A collapsible menu group for functionalities related to the "MRRTO" module.
+12. **MRRTO Accounts:** A sub-menu item under "MRRTO Module", likely for managing specific MRRTO-related accounts.
+13. **Fuel Prices:** A sub-menu item under "MRRTO Module", possibly for viewing or managing fuel price information.
+14. **Sales Reps Module:** A navigation link to a module related to sales representatives.
+15. **VAS Module:** A collapsible menu group for "Value Added Services" functionalities.
+16. **NPS:** A navigation link, possibly related to Net Promoter Score tracking or a specific "NPS" module.
+
+## Main Content Area (Personal Accounts View)
+
+17. **Page Title:** The main heading identifying the current screen ("Personal Accounts").
+18. **Breadcrumb Navigation:** Shows the user's current location within the application hierarchy (`< Personal Accounts`) and may allow navigation back to parent sections.
+19. **Search Tabs:** Tabs allowing the user to select the primary search criterion: "Search ID" or "Search by Cell#".
+20. **Search National ID Input:** An input field specifically for searching accounts using a National ID number (expects 12 digits).
+21. **Search Cell Number Input:** An input field specifically for searching accounts using a cell phone number (expects 8 digits).
+22. **Apply Button:** A button to execute the search based on the criteria entered in the active search tab's input field.
+23. **General Search Input:** A text field with a search icon (🔍) for performing a general search across the data displayed in the table below.
+24. **Refresh Button:** An icon button (🔄) to reload or refresh the data displayed in the table.
+25. **Export/Download Button:** An icon button (📥) likely used to export the displayed data, potentially into formats like CSV or Excel.
+26. **Data Table:** The main component displaying a list of personal accounts in a tabular format.
+27. **Table Headers:** The titles for each column in the data table (First Name, Surname, ID/Passport Num, Cell, District, Area, Date, Gender, Actions).
+28. **Data Rows:** Individual rows representing specific personal accounts, displaying their details according to the columns.
+29. **Action Buttons:** Buttons within the "Actions" column for each row, typically used for operations like viewing details (➕ icon) or editing (✏️ icon) the specific account record.
+30. **Items Per Page Selector:** A dropdown menu allowing the user to select the number of account records displayed per page (currently set to 5).
+31. **Pagination Information:** Text indicating the range of items currently displayed out of the total number of items (e.g., "1 - 5 of 10").
+32. **Pagination Controls:** Navigation arrows (< and >) to move to the previous or next page of account records when the total number exceeds the items displayed per page.

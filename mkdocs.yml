@@ -1,0 +1,26 @@
+site_name: SAMS Documentation
+theme:
+  name: material
+  palette:
+    scheme: default
+  features:
+    - content.code.copy
+docs_dir: docs
+nav:
+  - Home: index.md
+  - General: general.md
+  - Start: authentication.md
+  - Getting Started: getting-started.md
+  - New format: agents-table.md
+  - I bet you: betting-vas-table.md
+  - Getting Started: districts-table.md
+  - update merge: electricity-vas-table.md
+  - To be tested: general-filter-table.md
+  - Getting Started: search-filter-table.md
+  - Insurance: insurance-vas-table.md
+  - Getting Started: international-airtime-vas-table.md
+  - Getting Started: local-airtime-vas-table.md
+  - Getting Started: messages-table.md
+  - Getting Started: mrto-accounts-table.md
+  - Getting Started: mrto-fuel-prices.md
+  - Getting Started: sales-reps-table.md
